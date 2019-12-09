@@ -1,3 +1,5 @@
+Modified from https://minnojs.github.io/minno-quest/ to suit my needs as part of a study by Ganga R B (la18mphil11005).
+
 # simple-minno-server
 
 This repository serves as a super simple [minnoJS](https://minnojs.github.io/minno-quest/) server.
